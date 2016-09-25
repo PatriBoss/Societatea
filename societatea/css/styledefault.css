@@ -20,7 +20,7 @@ p
 img
 { border: 0;}
 
-h1, h2, h3, h4, h5, h6 
+h1, h2, h3, h4, h5, h6
 { font: normal 175% Arial, Helvetica, sans-serif;
   color: #FFF;
   text-shadow: 1px 1px #1D1D1D;
@@ -68,12 +68,12 @@ ol li
 { margin: 0 0 11px 0;}
 
 #main, #header, #banner, #menubar, #site_content, #footer, #content_bottom
-{ margin-left: auto; 
+{ margin-left: auto;
   margin-right: auto;}
 
 #main
 { background: transparent;}
-  
+
 #header
 { width: 960px;
   height: 120px;
@@ -89,7 +89,7 @@ ol li
 #menubar
 { width: 960px;
   height: 50px;
-  text-align: center; 
+  text-align: center;
   margin: 0 auto;
   background: #4d0000;
   background: -moz-linear-gradient(#43A9FF, #0043A8);
@@ -101,24 +101,24 @@ ol li
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
-  } 
-  
+  }
+
 #welcome
 { width: 960px;
   float: left;
   height: 50px;
   margin: 0 auto;
   padding-left: 20px;
-  background: transparent;} 
-  
+  background: transparent;}
+
 #welcome_slogan
 { width: 960px;
   float: left;
   height: 50px;
   margin: 0 auto;
   padding-left: 20px;
-  background: transparent;}   
-   
+  background: transparent;}
+
 #welcome H1
 { font: normal 300% Arial, Helvetica, sans-serif;
   letter-spacing: -3px;
@@ -129,8 +129,8 @@ ol li
 { font: normal 200% Arial, Helvetica, sans-serif;
   letter-spacing: -2px;
   color: #FFF;
-  text-shadow: 1px 1px #1D1D1D;}  
-  
+  text-shadow: 1px 1px #1D1D1D;}
+
 ul#menu
 { margin:0;
   margin: 0 0 0 20px;}
@@ -151,13 +151,13 @@ ul#menu li a
   height: 24px;
   text-shadow: 0px -1px 0px #000;
   padding: 16px 20px 10px 20px;
-  background: transparent; } 
-  
+  background: transparent; }
+
 ul#menu li.current a
 { color: #FFF;
   background: #323232;
   text-shadow: none;}
-  
+
 ul#menu li:hover a
 { color: #FFF;
   background: #323232;
@@ -171,7 +171,7 @@ ul#menu li:hover a
   background: #323232;
   border-radius: 0px 0px 15px 15px;
   -moz-border-radius: 0px 0px 15px 15px;
-  -webkit-border: 0px 0px 15px 15px;} 
+  -webkit-border: 0px 0px 15px 15px;}
 
 .sidebar_container
 { float: left;
@@ -205,7 +205,7 @@ ul#menu li:hover a
   -webkit-border: 15px 15px 15px 15px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}  
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
 
 #content
 { width: 680px;
@@ -216,35 +216,35 @@ ul#menu li:hover a
 { width: 680px;
   margin-top: 20px;
   margin-bottom: 20px;}
-  
+
 .content_image
-{ float: left; 
+{ float: left;
   width: 150px;
   height: 150px;
   margin: 0 20px 10px 0;
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;}
-  
+
 .content_container
 { width: 320px;
   padding: 5px;
   margin-right: 10px;
   float: left;}
-  
+
 #content_bottom
  { width: 960px;
   height: 160px;
-  text-align: center;} 
-  
+  text-align: center;}
+
 #content_bottom p
  { color: #000;
-  text-shadow: 1px 1px #FFF; }  
+  text-shadow: 1px 1px #FFF; }
 
 #content_bottom h4
 { color: #000;
   text-shadow: none;}
-  
+
 .content_bottom_container_box
 { width: 295px;
   padding: 5px;
@@ -258,12 +258,12 @@ ul#menu li:hover a
   text-align: center;
   margin: 20px 0 10px 10px;
   float: left;}
-  
+
 #footer
 { width: 960px;
   height: 20px;
   padding-top: 20px;
-  text-align: center; 
+  text-align: center;
   background: transparent;
   color: #1D1D1D;
   text-shadow: 1px 1px #FFF;}
@@ -275,7 +275,7 @@ ul#menu li:hover a
 
 #footer a:hover
 { text-decoration: underline;}
-  
+
  .readmore
 { font: bold 110% Arial, Helvetica, sans-serif;
   height: 15px;
@@ -292,10 +292,10 @@ ul#menu li:hover a
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
-  
+
  .readmore a
 { color: #1D1D1D;}
- 
+
  .button_small
 { font: normal 110% Arial, Helvetica, sans-serif;
   height: 15px;
@@ -311,7 +311,7 @@ ul#menu li:hover a
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
-  
+
 .button_small a
 { color: #FFF;
   padding-left: 5px;}
@@ -323,34 +323,34 @@ ul#menu li:hover a
 { padding: 0 0 4px 0;}
 
 .form_settings span
-{ float: left; 
-  width: 280px; 
+{ float: left;
+  width: 280px;
   text-align: left;}
-  
+
 .form_settings input, .form_settings textarea
-{ padding: 2px; 
-  width: 299px; 
-  font: 100% arial; 
-  border: 1px solid #E5E5DB; 
-  background: #FFF; 
+{ padding: 2px;
+  width: 299px;
+  font: 100% arial;
+  border: 1px solid #E5E5DB;
+  background: #FFF;
   color: #47433F;}
-  
+
 .form_settings input[type="checkbox"]
-{ padding: 2px 0; 
-  width: 15px; 
-  font: 100% arial; 
-  border: 0; 
-  background: #FFF; 
+{ padding: 2px 0;
+  width: 15px;
+  font: 100% arial;
+  border: 0;
+  background: #FFF;
   color: #47433F;
   margin: 28px 0;}
 
 .form_settings .submit
-{ font: 100% arial; 
-  width: 99px; 
-  margin: 0 0 0 206px; 
+{ font: 100% arial;
+  width: 99px;
+  margin: 0 0 0 206px;
   height: 26px;
   padding: 2px 0 3px 0;
-  cursor: pointer; 
+  cursor: pointer;
   background: #0043A8;
   background: -moz-linear-gradient(#43A9FF, #0043A8);
   background: -o-linear-gradient(#43A9FF, #0043A8);
@@ -372,7 +372,7 @@ ul#menu li:hover a
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;}
-  
+
 
 ul.slideshow {
   list-style: none;
@@ -384,35 +384,34 @@ ul.slideshow {
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;}
-  
+
 ul.slideshow li {
   position: absolute;
   margin: 0;
   padding: 0;
   left: 0;
   right: 0;}
- 
+
 ul.slideshow li.show {
   z-index: 500;}
- 
+
 ul img {
   border: none;}
- 
+
 #slideshow-caption {
   width: 680px;
   height: 38px;
   position: absoute;
   bottom: 0;
-  left: 0; 
+  left: 0;
   z-index: 500;}
- 
+
 #slideshow-caption .slideshow-caption-container {
-  padding: 10px 25px 10px 25px; 
-  background: transparent url(../images/transparent.png) repeat;  
+  padding: 10px 25px 10px 25px;
+  background: transparent url(../images/transparent.png) repeat;
   z-index: 1000;}
- 
+
 #slideshow-caption p {
   padding: 0;
   font: normal 130% arial, sans-serif;
   color: #FFF;}
- 
